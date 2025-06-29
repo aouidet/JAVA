@@ -1,0 +1,4 @@
+package com.practices.practice.feature.java.lombdaexpression.transfomation;
+
+public record MessageDto(String content) {
+}
